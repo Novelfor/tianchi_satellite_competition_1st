@@ -2,7 +2,7 @@
 
 It's the 1st prize code in Tianchi competition, the 2nd Guangzhou Government affairs.
 
-More information in [Idea Share in Chinese](!https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.f323311fvnuggj&raceId=231615&postsId=3483)
+More information in [Idea Share in Chinese](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.f323311fvnuggj&raceId=231615&postsId=3483)
 
 
 
